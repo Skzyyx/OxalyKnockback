@@ -1,0 +1,10 @@
+name: OxalyKnockback
+version: '1.0'
+main: org.oxaly.OxalyKnockback
+api-version: '1.21'
+prefix: Oxaly
+
+commands:
+  kbadmin:
+
+  kb:
